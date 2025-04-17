@@ -11,7 +11,7 @@ A cross-platform React Native app to monitor battery state and to check on the b
 - Cross-platform (iOS & Android) layout compatibility
 - Responsive design with `SafeAreaView` support
 - Persistent navigation using React Navigation
-- Footer for switching between screens (Battery Tracket screen - Account Settings Screen)
+- Footer for switching between screens (Battery Tracker screen - Account Settings Screen)
 
 ---
 
