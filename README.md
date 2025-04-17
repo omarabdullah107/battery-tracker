@@ -53,7 +53,15 @@ OR
 npx expo start --clear
 ```
 
-## 📱 UI
+## 📸 App UI Screenshots
 
+### 🔋 Battery Tracker Screen
+![Battery Tracker](https://github.com/user-attachments/assets/c35cab12-baae-4aa8-adbd-76cb68b57a12)
+
+### 🔋 Battery Tracker Screen using the toggle in it to show consumption of battery through time
+![Toggle Switch](https://github.com/user-attachments/assets/a3900048-5efc-4817-9088-75e244dd3975)
+
+### 👤 Account Settings
+![Account Settings](https://github.com/user-attachments/assets/7251069a-4c69-41bf-8acf-7409025c04bb)
 
 
